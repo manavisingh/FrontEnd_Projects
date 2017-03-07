@@ -1,0 +1,10 @@
+#display-captcha {
+  display: inline-block;
+  vertical-align: middle;
+
+  text-align: center;
+  line-height: 50px;
+  font-size: 26px;
+  letter-spacing: 6px;
+  border: 1px solid #c3c3c3;
+  }
