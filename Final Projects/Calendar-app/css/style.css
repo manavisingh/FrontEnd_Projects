@@ -1,0 +1,40 @@
+#calendar, .calendar {
+    position: absolute;
+    width: 96%;
+    height: 96%;
+    margin: 1%;
+}
+
+.monthPre{
+ color: gray;
+ text-align: center;
+}
+
+.monthNow{
+ text-align: center;
+    width: 14.28%;
+}
+
+.dayNow{
+ border: 2px solid black;
+ color: #FF0000;
+ text-align: center;
+}
+
+tr {
+    font-size: 3vh;
+}
+
+.monthNow th{
+    background-color: #6ea4a5;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 5vh;
+}
+
+.dayNames{
+    background: #00f0df;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 2vh; 
+}
